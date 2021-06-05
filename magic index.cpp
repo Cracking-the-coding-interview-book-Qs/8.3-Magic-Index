@@ -1,9 +1,6 @@
 //I have assumed that elements aren't distinct, they repeat and hence we don't need to search for all elements in left and
 //right half.
 
-//ISSUE:
-//ye tab bokhla jaara jab saare elements index ke barabar ho.
-
 #include<iostream>
 #include<algorithm>  //to use sort()
 #include<cstdlib>   //to use malloc()
